@@ -21,7 +21,7 @@
             "aot": true,
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": ["src/styles.css"],
-            "scripts": ["assets/js/custom.js"]
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -80,7 +80,7 @@
             "karmaConfig": "karma.conf.js",
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": ["src/styles.css"],
-            "scripts": ["assets/js/custom.js"]
+            "scripts": []
           }
         },
         "lint": {
